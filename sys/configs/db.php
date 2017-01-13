@@ -15,7 +15,7 @@ class DB extends PDO
     {
         $this->engine   = "mysql";
         $this->host     = "localhost";
-        $this->database = "ks_tm";
+        $this->database = "bhavin";
         $this->username = "root";
         $this->password = '';
 
